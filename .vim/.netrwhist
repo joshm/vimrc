@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/mnt/users_home/joshm/peach/api/node_modules/sqgit/spec/config'
+let g:netrw_dirhist_2='/mnt/users_home/joshm/peach/api/node_modules/sequelize/spec/config'
+let g:netrw_dirhist_3='/mnt/users_home/joshm/peach/jsapilib/test/db'
